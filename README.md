@@ -29,6 +29,13 @@ python -m playwright install chromium
 
 
 
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/DamithAmbagahawatta/saucedemo-playwright-automation.git
+git push -u origin main
+
 
 
 
