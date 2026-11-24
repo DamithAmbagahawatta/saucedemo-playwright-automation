@@ -1,0 +1,14 @@
+
+# Browser Automation
+playwright
+
+# Test Framework
+pytest
+pytest-playwright
+
+# Test Reports
+allure-pytest
+pytest-html
+
+# Environment Variables
+python-dotenv
